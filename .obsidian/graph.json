@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#thanksgiving OR path:ingredients",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:recipes",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:ingredients",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:categories",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 3.41072998046875,
+  "lineSizeMultiplier": 2.12372233072917,
+  "collapse-forces": true,
+  "centerStrength": 0.417195638020833,
+  "repelStrength": 10,
+  "linkStrength": 0.561564127604167,
+  "linkDistance": 374,
+  "scale": 1.5079898933994484,
+  "close": false
+}

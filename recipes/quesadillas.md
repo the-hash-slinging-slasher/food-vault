@@ -1,0 +1,10 @@
+
+[[tortillas]]
+[[chicken]]
+[[franks-red-hot]]
+[[mexican-cheese]]
+[[green-chilies]]
+[[green-onions]]
+[[sour-cream]]
+[[salsa]]
+[[blue-cheese]]
